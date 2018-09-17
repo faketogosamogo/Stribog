@@ -1,0 +1,4 @@
+﻿  Functions.cpp
+e:\projects\hashfunction\hashfunction\functions.cpp(75): warning C4244: 'argument': conversion from 'unsigned __int64' to 'std::size_t', possible loss of data
+  HashFunction.vcxproj -> E:\Projects\HashFunction\Debug\HashFunction.exe
+  HashFunction.vcxproj -> E:\Projects\HashFunction\Debug\HashFunction.pdb (Partial PDB)
